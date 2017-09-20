@@ -15,7 +15,7 @@ Existen dos elementos muy importante que tengo que valorar a la hora de elegir f
 
 Para ser e.i es necesario ser +18 años y tener la plena disponibilidad de los bienes(es decir, que ninguna sentencia judicial nos limita nuestra capacidad de obrar). No es necesario capital inicial. Para convertirse en empresario solo se necesitan dos actos administrativos: darse de alta en la Seguridad Social y en Hacienda.
 
-(ASESOR FUNANCIERO MUY IMPORTANTE)
+(ASESOR FINANCIERO MUY IMPORTANTE)
 
 El inconveniente es que el E.I responde con todo su patrimonio presente y futuro ante las deudas de la empresa (responsabilidad ilimitada)
 
