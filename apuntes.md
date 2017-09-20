@@ -39,3 +39,18 @@ Si la empresa genera en torno a los 20,000€ es necesario plantearse dejar de s
 Una sociedad civil es aquella formada por 2 o más personas que ponen en común bienes o trabajo con la esperanza de obtener un beneficio en el futuro. Un inconveniente de SC es que los firmantes tributan como E.I. y por tanto tributan bajo el IRPF.
 
 Para crear una sociedad civil basta con firmar un contrato privado (o público ante notario) entre los socios, en este debe aparecer la actividad, las aportaciones, el porcentaje de participación en las ganancias y perdidas y posibles causas de disolución. Otro inconveniente es que los socios tienen responsabilidad ilimitada ya que son E.I.
+
+### Sociedad Limitada:
+Se llama sociedad pero puede estar formada por una sola persona fisica o juridica(es decir, otra sociedad limitada o otro tipo de sociedad). En este ultimo caso la ley obliga en todos los documentos que la sociedad es unipersonal. Necesitamos un capital inicial de 3000 € totalmente desembolsados antes de acudir al notario a firmar. La responsabilidad de los socios es limitada al capital aportado(Solo se pierde esta aportacion)
+
+El capital puede aportarse en dinero o en especie. Si se aporta en dinero, el proceso es sencillo. Basta con abrir una cuenta bancaria a nombre de la S.L. Si el capital se aporta en especie el notario debe de estar de acuerdo con el valor y si hay más socios estos tienen qeu expresar por escrito su aprobacion del valor del bien.
+El siguiente paso es el nombre(Razón Social). Una vez elegido el nombre, hay que comunicarlo al Registroo Mercantil Central de Madrid. Si no existe otra Sociedad del mismo nombre, este se guardara(1 mes) hasta la firma de la escritura. Los socios tienen que decidir que capital aportar y en cuantas partes lo van a dividir teniendo en cuenta que estas deben ser iguales, acumulables e indivisibles.
+
+|Calculo de partes, Ejemplo||||
+|Nombre|Aportado|Participacion|Beneficios percibidos|
+| Juan | 2000€|2000 partes = 2000 votos|2000/3000 '*' Beneficios|
+| Francisco | 500€|500 partes = 500 votos|500/3000 '*' Beneficios|
+| Antonio | 500€|500 partes = 500 votos|500/3000 '*' Beneficios|
+| Total | 3000€|3000 partes = 3000 votos|||
+| *En este caso la aportacion maxima seria de | 500€ |||
+
