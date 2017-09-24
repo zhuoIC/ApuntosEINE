@@ -6,8 +6,8 @@ No existe una sola forma legal para crear una empresa. Nuestra legislación nos 
 
 Existen dos elementos muy importante que tengo que valorar a la hora de elegir forma jurídica.
 
-	1. El riesgo
-	2. La complejidad administrativa
+1. El riesgo
+2. La complejidad administrativa
 
 ## Formas jurídicas
 	
@@ -47,7 +47,9 @@ El capital puede aportarse en dinero o en especie. Si se aporta en dinero, el pr
 El siguiente paso es el nombre(Razón Social). Una vez elegido el nombre, hay que comunicarlo al Registroo Mercantil Central de Madrid. Si no existe otra Sociedad del mismo nombre, este se guardara(1 mes) hasta la firma de la escritura. Los socios tienen que decidir que capital aportar y en cuantas partes lo van a dividir teniendo en cuenta que estas deben ser iguales, acumulables e indivisibles.
 
 Es evidente que no se hacer tablas, pero dejare esto aqui para un futuro
+
 |Calculo de partes, Ejemplo||||
+|---|---|---|---|
 |Nombre|Aportado|Participacion|Beneficios percibidos|
 | Juan | 2000€|2000 partes = 2000 votos|2000/3000 '*' Beneficios|
 | Francisco | 500€|500 partes = 500 votos|500/3000 '*' Beneficios|
@@ -56,27 +58,40 @@ Es evidente que no se hacer tablas, pero dejare esto aqui para un futuro
 | *En este caso la aportacion maxima seria de | 500€ |||
 
 Cada una de estas partes se llama PARTICIPACION. No son librementes transmitibles, es necesario en caso de venderlas comunicar previamente a los otros socios el nombre del posible comprador y el precio de venta, el resto de socios tiene derecho preferente a ese precio.
+
 Crear una SL implica muchos más tramites(mucho mas dinero a gastar) que una E.I
+
 El siguiente paso es acudir al notario, hay que firmar la Escritura Publica de Constitucion de la Sociedad. En esta se deben de recoger los estatutos de la sociedad que seran las normas de funcionamiento interno. Existen modelos ya hecho pero es necesario revisar los estatutos y adoptarlos a como queremos que funcionen.
+
 Una vez firmado la escritura ante notario es necesario inscribir la escritura en el registro mercantil. El Reg Merc es un registro publico donde estar inscritos todos las sociedades mercantiles del pais. Si no existe esta inscripcion no existimos ante la ley. Las S estan obligados a presentar anualmente su documentacion contable en el registro mercantil para que cualquier persona(fisica o juridica) pueda consultarlo. 
 
 Luego hay que darse de alta en Hacienda y en la Seguridad Social.
 
 ### Como se gestiona una S.L
+
 Se crean dos sotanos con funciones diferentes:
-	#### La junta de participes
-	Es la reunion de todos los socios(propietarios de participaciones). Sus funciones son:
-		1. Nombrar y cesar a los administradores(siguiente grupo de gestion)
-		2. Decidir el reparto de los beneficios
-		3. Decidir sobre cualquier cambio de los estatutos de la S.L
-	Las decisiones se realizan por votacion y la ley regula todos los pasos que hay que realizar para convocar a los socios de la junta. La ley estipula una reunion OBLIGATORIA al año, dentro de los primeros 6 meses del año.
-	Se pora celebrar cualquier otra reunion de participantes cuando sea necesario.
-	En la empresas pequeñas la ley les permite que si estan todos los participes o el 100% del capital de la sociedad podrán convocar en ese mismo momento una junta universal de participes y lo que se decida sera valido ante la ley.
-	#### Administrador(es): 
-	Es la persona que dirige y organiza la S.L. Puede ser socio o no. Si son varios lo normal es crear un consejo de administracion donde se decide por votacion. PUeden actuar de manera mancomunada(Se reunen para acordar y firmar en cualquier acto) o solidaria(Cada administrador puede actuar por su cuenta y los actos realizados por separado obligan a los demas. NO es la mejor opcion).
-	El administrador debe estar resgistrado en el Registro Especial como Autonomo. Estan obligados a pressentar las cuentas de la empresa y un informe de gestion una vez al año a los socios. La responsabilidad limitada puede perderse en el caso que el Tribunal Supremo lo establesca si los socios se han aprovechado de una forma abusiva de la responsabilidad limitada originadno un perjuicio a los intereses de terceros.
+
+#### La junta de participes
 	
-	Las sociedades limitadas tributan bajo el impuesto de sociedades. Estan obligadas a llevar la contabilidad al completo segun marca la ley. Para ello un asesor es necesario si o si, desde el primer dia. 
+Es la reunion de todos los socios(propietarios de participaciones). Sus funciones son:
+
+1. Nombrar y cesar a los administradores(siguiente grupo de gestion)
+2. Decidir el reparto de los beneficios
+3. Decidir sobre cualquier cambio de los estatutos de la S.L
+
+Las decisiones se realizan por votacion y la ley regula todos los pasos que hay que realizar para convocar a los socios de la junta. La ley estipula una reunion OBLIGATORIA al año, dentro de los primeros 6 meses del año.
+
+Se pora celebrar cualquier otra reunion de participantes cuando sea necesario.
+En la empresas pequeñas la ley les permite que si estan todos los participes o el 100% del capital de la sociedad podrán convocar en ese mismo momento una junta universal de participes y lo que se decida sera valido ante la ley.
+
+#### Administrador(es):
 	
-	Si algún socio que no sea administrador es contratado por la empresa tiene que darse de alta en el regimen especial de autonomos. Los socios que no trabajan en la empresa no tienen que darse de alto en la Seguridad Social excepto si poseen más del 50% del capital social que en ese caso tiene que darse de alta como Autonomo.
-	Los socios deciden una vez al año como repartir beneficios. Esto beneficios se llaman dividendos activos, que tendran que ser declarados por cada socio en el IRPF
+Es la persona que dirige y organiza la S.L. Puede ser socio o no. Si son varios lo normal es crear un consejo de administracion donde se decide por votacion. PUeden actuar de manera mancomunada (Se reunen para acordar y firmar en cualquier acto) o solidaria(Cada administrador puede actuar por su cuenta y los actos realizados por separado obligan a los demas. NO es la mejor opcion).
+
+El administrador debe estar resgistrado en el Registro Especial como Autonomo. Estan obligados a pressentar las cuentas de la empresa y un informe de gestion una vez al año a los socios. La responsabilidad limitada puede perderse en el caso que el Tribunal Supremo lo establesca si los socios se han aprovechado de una forma abusiva de la responsabilidad limitada originadno un perjuicio a los intereses de terceros.
+	
+Las sociedades limitadas tributan bajo el impuesto de sociedades. Estan obligadas a llevar la contabilidad al completo segun marca la ley. Para ello un asesor es necesario si o si, desde el primer dia. 
+	
+Si algún socio que no sea administrador es contratado por la empresa tiene que darse de alta en el regimen especial de autonomos. Los socios que no trabajan en la empresa no tienen que darse de alto en la Seguridad Social excepto si poseen más del 50% del capital social que en ese caso tiene que darse de alta como Autonomo.
+
+Los socios deciden una vez al año como repartir beneficios. Esto beneficios se llaman dividendos activos, que tendran que ser declarados por cada socio en el IRPF
