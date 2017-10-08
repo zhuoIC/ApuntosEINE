@@ -80,7 +80,7 @@ Es la reunion de todos los socios(propietarios de participaciones). Sus funcione
 1. Nombrar y cesar a los administradores(siguiente grupo de gestion)
 2. Decidir el reparto de los beneficios
 3. Decidir sobre cualquier cambio de los estatutos de la S.L
-
+ 
 Las decisiones se realizan por votacion y la ley regula todos los pasos que hay que realizar para convocar a los socios de la junta. La ley estipula una reunion OBLIGATORIA al año, dentro de los primeros 6 meses del año.
 
 Se pora celebrar cualquier otra reunion de participantes cuando sea necesario.
@@ -122,9 +122,9 @@ Ningun socio trabajador puede tener mas del 33% capital los socios
 no pueden en su conjunto tener menos del 49% capital
 Las acciones de socios trabajadores no se pueden vender libremente
 
-||min Socios|Capital|Constitucion|de los 3, dos tienen|
-|SLiLa|3|3000|escritura|que ser trabajadores|
-|SALa|3|60000|escritura|*Pueden necesitar4*|
+| | min Socios | Capital| Constitucion| de los 3, dos tienen |
+| SLiLa | 3 | 3000 | escritura  | que ser trabajadores |
+| SALa | 3 | 60000 | escritura | *Pueden necesitar4* |
 
 
 Las normas de regulacion de sociedades de capital se encuentran en el real decreto legistativo 1/2010, del 2 de julio.
