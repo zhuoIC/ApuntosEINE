@@ -34,6 +34,8 @@ El inconveniente del IRPF es que tiene un carácter progresivo, es decir, aument
 
 Si la empresa genera en torno a los 20,000€ es necesario plantearse dejar de ser empresario individual y volverse  Sociedad --- por que a las sociedades se les aplica una ley diferente(dejando el porcentaje de entrega en un 20%)
 
+
+
 ### Sociedades civiles:
 
 Una sociedad civil es aquella formada por 2 o más personas que ponen en común bienes o trabajo con la esperanza de obtener un beneficio en el futuro. Un inconveniente de SC es que los firmantes tributan como E.I. y por tanto tributan bajo el IRPF.
@@ -95,3 +97,90 @@ Las sociedades limitadas tributan bajo el impuesto de sociedades. Estan obligada
 Si algún socio que no sea administrador es contratado por la empresa tiene que darse de alta en el regimen especial de autonomos. Los socios que no trabajan en la empresa no tienen que darse de alto en la Seguridad Social excepto si poseen más del 50% del capital social que en ese caso tiene que darse de alta como Autonomo.
 
 Los socios deciden una vez al año como repartir beneficios. Esto beneficios se llaman dividendos activos, que tendran que ser declarados por cada socio en el IRPF
+
+
+##Sociedad Anonima##
+Es raro que comiencemos siendo una S.A, el coste administrativo es mayor que en la S.L
+Los requisitos son:
+- 1 socio min
+-Capital min 60000€, tiene que estar totalmente subscrito y deselvolsado al menos el 25%
+El capital se divide en acciones libremente transferibles, esto significa que los socios pueden cambiar sin que se sepa.
+La S.A es para grandes empresas(no shit sherlock)
+-Certificado negativo del nombre del Registro mercantil.(No existe otra empresa con nuesro nombre)(se entrega una lista de 5)
+-Tener depositados al menos el 25% a nombre de la futura sociedad(se puede pago en especie)
+-INscribir escritura en el Reg Mercantil.
+
+Organizaciones de gestion
+Los mismos que en la S.L
+-Junta accionistas
+-Los administradores
+
+Sociedades laborales(SLa)
+Son S.L o S.A donde el 51% del capital pertenece a trabajadores de la empresa a jornada completa y contrato indefinido.
+
+Ningun socio trabajador puede tener mas del 33% capital los socios
+no pueden en su conjunto tener menos del 49% capital
+Las acciones de socios trabajadores no se pueden vender libremente
+
+||min Socios|Capital|Constitucion|de los 3, dos tienen|
+|SLiLa|3|3000|escritura|que ser trabajadores|
+|SALa|3|60000|escritura|*Pueden necesitar4*|
+
+
+Las normas de regulacion de sociedades de capital se encuentran en el real decreto legistativo 1/2010, del 2 de julio.
+El minimo de socios de una sociedad limitada: La SL puede estar constituida por una o más personas fisicas o juridicas.
+El capital social minimo en S.L: No podra ser >3000 (pudiendo ser en especie)
+En el caso que no se alcnace esta cifra, la sociedad se encontrara bajo las siguientes condiciones:
+a)Debera destinarse a la reserva legal una cantidad de al menos 20% del benf del ejercicio sin limite de cuantia.
+b)Una vez cubiertas las atenciones legales o estatuarias, solo podrán repartirse los dividendos a los socios del patrimonio neto o a consecuencia del reparto, no resultara inferior al 60% del capital legal minimo.
+c)La suma anual de las retribuciones a los socios y admin no podra exceder 20% del patrimonio neto del correspondiente ejercicio.
+
+La denominacion de la sociedad, o Razón Social, es libre, no pudiendo obtarse una razón social idendentica a otro preexistente y debiendo incluirse necesariamente la expresion "Sociedad de responsabilidad limitada", "Sociedad limitada" o sus abreviaturas "S.R.L" o "S.L"
+
+Las S de capital se constituyen por contrato entre dos o más persona o, en caso de sociedades unipersonales, por acto unilatera. Además, la constitución de las sociedades de capital exigira escritura pública, que deberá inscribirse en el Registro Mercantil.
+
+Funciones de participes/socios:
+Es competencia de la junta general deliberar y acordar los siguientes asuntos:
+a)La aprobación de las cuentas anuales, aplicación del resultado y la aporbación de la gestion social.
+b) El nombramiento y separación de los administradores, del los liquidadores, y si fuera el caso, de los auditores de cuentas.
+c)La modificacion de las estatutos sociales.
+d)El aumento y la reduccion del capital social.
+e)La supresión o limitacion de los derechos de suscripcion preferente y de asunción preferente.
+f)La adquisición, la anexion o la aportacion a otra sociedad de activos esenciales
+g)Cualquiera tipo de translado del domicilio de la empresa.
+h)Disolucion
+i)Apropiacion del balance final de liquidacion.
+j)Cualquier otros asuntos que determinen la ley o los estatutos.
+
+Funciones de los adminitratores:
+-Es competencia de los administradores la gestion y la representación en los terminos establecidos en esta ley
+-Balanceo
+
+### Sociedades cooperativos andaluzas:###
+En And para crear una S.C de primer grado se necesitan 3 personas y un capital min de 3000. Hay que ir a un notario, firmar la constitución de la S y enviar esta escritura al Registro de Coops de And. EN este registro revisaran los estatutos y podrán aceptar o rechazar nuesra solicitud y nos podran cambiar las escrituras y nos calificara además. En el Reg no sdaran una calificacion si el registro considera la coop de interes social siginificando un ahorro en impuestos y preferencia en las subvenciones. Para organizar una coop se establecen los siguientes organos:
+1- La samblea general: Es la reunion de todos los socios, coopertivistas. Sus funciones son:
+	1_Decidir el reparto de los Bnf.
+	2_Nombrar al consejo rector.
+	3_Cualquier cambio que se quiera producir en los escrituras de constitucion de la sociedad. Cada cooperativista tiene 1 voto.
+2- Consejo rector: Son socios que se encargan de la organización y represantacion de la cooperativa y pueden nombrar un gerente.
+3- Interventores: Son socios que respaldan con su firma que las cuentas de la coop están correctas.
+4- Comite de recursos: Son socios quea peticion del interesado revisa las sanciones que haya impuesto el consejo rector. 
+
+Ejemplo de la SCoop
+Ejemplo:Cajamar como Coop de credito
+Cooperativas de vivienda: tienen como finalidad ahorrar costes a quienes van a comprar la casa además de poder decidir sobre el diseño y distribucion de la misma.
+Cooperativas agricolas: Un grupo de granjeros o agricultures compran lo necesario para producir y distribuir por ellos mismos.
+
+La Cooperativas de facturacion ahora mismo no son seguras. Las personas que las han utilizado estan teniendo reclamaciones de pago. La S.S no considera esta coop como coop de trabajo y estan multando a sus usuarios.
+ Para hacer trabajos exporadicos no nos queda más remedio que darnos de alta y de baja en Hacienda y comunicar a la S.S que los ingrsos que se perciben son menores al salario minimo interprofesional al mes y por lo tanto no es obligatorio pagar la SS. La SS no hace caso y reclama pago 
+ 
+ Problema de darte de alta y de baja en Hacienda
+ Muchos(Literalmente eso tengo en los apuntes) ((help))
+ 
+ Trabajadores autonomo dependiente
+ Es aquel que realiza una actividad economica a titulo lucrativo y de forma habitual, personal, directa y predominante para un cliente del qeu percibe, al menos, 75% de sus ingresos.
+ Al tener esta calificación se van a reconocer algunos derechos como vacaciones, paro, permisos..., que un trabajador autonomo no tiene pero siempre en menor medida que situaremos un contrato de trabajo normal.
+ 
+ 
+ # Tema 2 #
+
