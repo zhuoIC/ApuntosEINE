@@ -123,6 +123,7 @@ no pueden en su conjunto tener menos del 49% capital
 Las acciones de socios trabajadores no se pueden vender libremente
 
 | | min Socios | Capital| Constitucion| de los 3, dos tienen |
+|---|---|---|---|---|
 | SLiLa | 3 | 3000 | escritura  | que ser trabajadores |
 | SALa | 3 | 60000 | escritura | *Pueden necesitar4* |
 
